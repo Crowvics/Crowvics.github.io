@@ -5,9 +5,10 @@ layout: default
 
 ## 💻 Google Cybersecurity Certificate Labs
 
-Hands-on labs completed as part of the Google Cybersecurity Professional Certificate:
+Labs completed as part of the Google Cybersecurity Professional Certificate:
 
-- **Linux Fundamentals Lab:** Basic Linux commands, file permissions, and user management.
+- **Linux commands in the Bash shell:** [Manage Authorization](./linux-bash-authorization.md) – Practiced commands to manage file and directory permissions.
+
 
 
 ---
