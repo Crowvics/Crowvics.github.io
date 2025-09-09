@@ -5,6 +5,8 @@ title: Linux commands in the Bash shell – Manage Authorization
 
 In this lab, I practiced using Linux commands to manage file and directory permissions. The goal was to check and adjust authorization settings in the `/home/researcher2/projects` directory, making sure only the right users and groups had access.
 
+---
+
 ### Task 1: Check file and directory details
 Navigated to the `projects` directory, listed all files with their permissions, and verified ownership.  
 **Group owner of files:** `research_team`  
@@ -33,5 +35,7 @@ Checked the hidden file `.project_x.txt`, removed write permissions for others, 
 Updated the `drafts` directory permissions so only `researcher2` can access it, removing execute rights for the group.  
 
 ![Task 4: Directory permissions](./images/linux-task-4.jpeg)
+
+---
 
 
