@@ -34,7 +34,7 @@ Covers the core elements of the Diamond Model of Intrusion Analysis, emphasizing
 
 ---
 
-## [MITRE](./cyber-defence-frameworks/mitre.md)
+## [MITRE](./mitre.md)
 Resources provided by **MITRE** for understanding adversary behavior and building cybersecurity defenses.
 
 ---
