@@ -10,39 +10,41 @@ This section introduces key cybersecurity frameworks and models used to understa
 ---
 
 ## Junior Security Analyst Intro
-Explore a typical day in the life of a Junior Security Analyst, including tasks, responsibilities, and key skills required for the role.
+Focuses on concepts related to the role and daily activities, highlighting monitoring, triage, and incident escalation within a SOC.
 
 ---
 
 ## Pyramid of Pain
-Understand the **Pyramid of Pain** concept and how it helps determine which indicators are more costly for an adversary to change.
+Explores how different types of indicators—file hashes, IPs, domains, host and network artifacts, and attacker tools or techniques—impact the effort required for adversaries to adapt, helping to guide detection and response priorities.
 
 ---
 
 ## Cyber Kill Chain
-Learn the phases of the **Cyber Kill Chain**, which outlines how attackers progress through a network intrusion and how defenses can be applied at each stage.
+Covers the stages of a network intrusion, from reconnaissance to actions on objectives, and shows how understanding each phase supports detection, prevention, and defense strategies.
 
 ---
 
 ## Unified Kill Chain
-Examine the **Unified Kill Chain**, a framework that integrates attack phases and guides the mitigation of threats across IT systems.
+A detailed attack framework that complements traditional kill chain models, emphasizing all stages from reconnaissance to data exfiltration and attacker motivation, and highlighting how real-world attacks often revisit earlier phases.
 
 ---
 
 ## Diamond Model
-Discover the **Diamond Model of Intrusion Analysis**, focusing on the core elements: adversary, infrastructure, capability, and victim.
+Covers the core elements of the Diamond Model of Intrusion Analysis, emphasizing the relationships between adversary, infrastructure, capability, and victim to support intrusion understanding and threat assessment.
 
 ---
 
-## [MITRE](./mitre.md)
-Access resources provided by **MITRE** for understanding adversary behavior and building cybersecurity defenses.
+## [MITRE](./cyber-defence-frameworks/mitre.md)
+Resources provided by **MITRE** for understanding adversary behavior and building cybersecurity defenses.
 
 ---
 
-## [Summit](./cyber-defence-frameworks/summit.md)
-Simulation following an adversary through detection and defense exercises up the **Pyramid of Pain**.
+## [Summit](./summit.md)
+Simulates tracking an adversary through detection and defense exercises, using the Pyramid of Pain to increase the effort required for attackers to succeed.
 
 ---
 
 ## Eviction
-A scenario-based exercise where analysts identify and neutralize hidden threats within a simulated environment.
+A scenario-based exercise simulating the detection and mitigation of an advanced persistent threat, emphasizing the analysis of adversary techniques and attack behavior.
+
+---
