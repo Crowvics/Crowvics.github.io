@@ -24,6 +24,8 @@ Labs completed as part of the Google Cybersecurity Professional Certificate:
 
 Labs and projects completed as part of the TryHackMe SOC Level 1 pathway:
 
-- **[Cyber Defense Frameworks](./soc-level-1/cyber-defence-frameworks/index.md)** – Explored cybersecurity frameworks, defensive strategies, and practical adversary analysis.
+- **[Cyber Defence Frameworks](./soc-level-1/cyber-defence-frameworks/index.md)** – Exploration of defensive models, frameworks, and strategies for analyzing and mitigating adversary techniques.
+
+- **[Cyber Threat Intelligence](./soc-level-1/cyber-threat-intelligence/index.md)** – Introduction to threat intelligence concepts, standards, and frameworks. Includes OSINT tools, Yara rules, and platforms like OpenCTI and MISP, as well as guided analyst simulations.
 
 ---
