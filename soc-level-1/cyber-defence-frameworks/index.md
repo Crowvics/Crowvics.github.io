@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cyber Defense Frameworks
+title: Cyber Defence Frameworks
 ---
 
-# Cyber Defense Frameworks
+# Cyber Defence Frameworks
 
 This section introduces key cybersecurity frameworks and models used to understand, detect, and mitigate adversary behavior.  
 Each subtopic provides a different perspective on how analysts and organizations can approach cyber defense.
