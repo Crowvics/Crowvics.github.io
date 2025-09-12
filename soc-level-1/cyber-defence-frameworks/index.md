@@ -74,8 +74,13 @@ Simulates tracking an adversary through detection and defense exercises:
 ---
 
 ## Eviction
-A scenario-based exercise simulating the detection and mitigation of an advanced persistent threat:  
+A scenario-driven lab simulating the role of a SOC analyst at *E-corp*, using the **MITRE ATT&CK Navigator layer** to investigate intelligence on **APT28**.  
+The exercise applies practical threat intelligence to detect, analyze, and mitigate adversary actions throughout the intrusion lifecycle. Key phases include:  
 
-* Emphasizes analysis of adversary techniques and attack behavior  
+* **Reconnaissance & Initial Access** – Adversaries may employ spearphishing links or compromise email accounts to prepare resources for the attack.  
+* **Execution & Persistence** – Malicious files or links can trigger code execution, often observed through scripting interpreters such as *PowerShell* and *Windows Command Shell*. Persistence may be achieved by modifying registry run keys.  
+* **Defense Evasion** – Techniques like proxy execution using *rundll32* illustrate how attackers attempt to blend malicious activity with legitimate processes.  
+* **Discovery & Lateral Movement** – Tools like *tcpdump* indicate network sniffing, while exploitation of remote services (e.g., SMB/Windows Admin shares) demonstrates how adversaries expand their access.  
+* **Collection & Exfiltration Attempts** – Intellectual property hosted in repositories such as *SharePoint* is a likely target. Exfiltration may be attempted through external or multi-hop proxies, though blocking command-and-control connections can prevent data theft.
 
 ---
