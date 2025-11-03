@@ -2,6 +2,12 @@
 layout: default
 ---
 
+## 📄 Curriculum vitae - Portuguese version
+
+- **[(CV) – Victor Luz](./curriculo/CV-VictorLuz.md)**  
+
+---
+
 ## Google Cybersecurity Certificate
 
 <p align="center">
