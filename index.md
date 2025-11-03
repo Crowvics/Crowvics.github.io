@@ -4,7 +4,7 @@ layout: default
 
 ## 📄 Curriculum vitae - Portuguese version
 
-- **[(CV) – Victor Luz](./curriculo/CV-VictorLuz.md)**  
+- **[(CV) – Victor Luz](./CV-VictorLuz.pdf)**  
 
 ---
 
